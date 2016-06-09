@@ -1,0 +1,8 @@
+function OAS_RICH(position) {
+if (position == 'Right1') {
+document.write ('<A HREF="http://oas.services.bmj.com/5c/china.bestpractice.bmj.com/470122982/Right1/default/empty.gif/77525a5a416c637875326b4141595068?x" target="_top"><IMG SRC="http://cdn.oas-eu1.adnxs.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+if (position == 'Top') {
+document.write ('<A HREF="http://oas.services.bmj.com/5c/china.bestpractice.bmj.com/69514084/Top/default/empty.gif/77525a5a416c637875326b4141595068?x" target="_top"><IMG SRC="http://cdn.oas-eu1.adnxs.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+}
